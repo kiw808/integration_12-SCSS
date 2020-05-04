@@ -1,0 +1,81 @@
+.ring-small {
+  border-radius: 50%;
+  border-style: solid;
+  height: 40px;
+  width: 40px;
+  border-width: 5px;
+  border-color: #ffa500;
+  box-shadow: 2.6666666667px 2.6666666667px 1px #b37400, inset 2.6666666667px 2.6666666667px 1px #b37400;
+}
+
+.ring-big {
+  border-radius: 50%;
+  border-style: solid;
+  height: 120px;
+  width: 120px;
+  border-width: 15px;
+  border-color: #ffff00;
+  box-shadow: 8px 8px 1px #b3b300, inset 8px 8px 1px #b3b300;
+}
+
+.ring-inc-1 {
+  border-radius: 50%;
+  border-style: solid;
+  height: 40px;
+  width: 40px;
+  border-width: 5px;
+  border-color: gray;
+  box-shadow: 2.6666666667px 2.6666666667px 1px #5a5a5a, inset 2.6666666667px 2.6666666667px 1px #5a5a5a;
+}
+
+.ring-inc-2 {
+  border-radius: 50%;
+  border-style: solid;
+  height: 50px;
+  width: 50px;
+  border-width: 6.25px;
+  border-color: gray;
+  box-shadow: 3.3333333333px 3.3333333333px 1px #5a5a5a, inset 3.3333333333px 3.3333333333px 1px #5a5a5a;
+}
+
+.ring-inc-3 {
+  border-radius: 50%;
+  border-style: solid;
+  height: 60px;
+  width: 60px;
+  border-width: 7.5px;
+  border-color: gray;
+  box-shadow: 4px 4px 1px #5a5a5a, inset 4px 4px 1px #5a5a5a;
+}
+
+.ring-inc-4 {
+  border-radius: 50%;
+  border-style: solid;
+  height: 70px;
+  width: 70px;
+  border-width: 8.75px;
+  border-color: gray;
+  box-shadow: 4.6666666667px 4.6666666667px 1px #5a5a5a, inset 4.6666666667px 4.6666666667px 1px #5a5a5a;
+}
+
+.ring-inc-5 {
+  border-radius: 50%;
+  border-style: solid;
+  height: 80px;
+  width: 80px;
+  border-width: 10px;
+  border-color: gray;
+  box-shadow: 5.3333333333px 5.3333333333px 1px #5a5a5a, inset 5.3333333333px 5.3333333333px 1px #5a5a5a;
+}
+
+.ring-inc-6 {
+  border-radius: 50%;
+  border-style: solid;
+  height: 90px;
+  width: 90px;
+  border-width: 11.25px;
+  border-color: gray;
+  box-shadow: 6px 6px 1px #5a5a5a, inset 6px 6px 1px #5a5a5a;
+}
+
+/*# sourceMappingURL=ring.css.map */
