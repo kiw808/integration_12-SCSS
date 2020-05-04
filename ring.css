@@ -26,6 +26,7 @@
   border-width: 5px;
   border-color: gray;
   box-shadow: 2.6666666667px 2.6666666667px 1px #5a5a5a, inset 2.6666666667px 2.6666666667px 1px #5a5a5a;
+  margin-left: -6px;
 }
 
 .ring-inc-2 {
@@ -36,6 +37,7 @@
   border-width: 6.25px;
   border-color: gray;
   box-shadow: 3.3333333333px 3.3333333333px 1px #5a5a5a, inset 3.3333333333px 3.3333333333px 1px #5a5a5a;
+  margin-left: -12px;
 }
 
 .ring-inc-3 {
@@ -46,6 +48,7 @@
   border-width: 7.5px;
   border-color: gray;
   box-shadow: 4px 4px 1px #5a5a5a, inset 4px 4px 1px #5a5a5a;
+  margin-left: -18px;
 }
 
 .ring-inc-4 {
@@ -56,6 +59,7 @@
   border-width: 8.75px;
   border-color: gray;
   box-shadow: 4.6666666667px 4.6666666667px 1px #5a5a5a, inset 4.6666666667px 4.6666666667px 1px #5a5a5a;
+  margin-left: -24px;
 }
 
 .ring-inc-5 {
@@ -66,6 +70,7 @@
   border-width: 10px;
   border-color: gray;
   box-shadow: 5.3333333333px 5.3333333333px 1px #5a5a5a, inset 5.3333333333px 5.3333333333px 1px #5a5a5a;
+  margin-left: -30px;
 }
 
 .ring-inc-6 {
@@ -76,6 +81,7 @@
   border-width: 11.25px;
   border-color: gray;
   box-shadow: 6px 6px 1px #5a5a5a, inset 6px 6px 1px #5a5a5a;
+  margin-left: -36px;
 }
 
 /*# sourceMappingURL=ring.css.map */

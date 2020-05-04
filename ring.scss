@@ -19,5 +19,6 @@
 @for $i from 1 through 6 {
   .ring-inc-#{$i} {
     @include ring((30px + $i * 10), gray);
+    margin-left:-$i*6px;
   }
 }
