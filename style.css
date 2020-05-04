@@ -55,6 +55,15 @@ footer {
     text-align: center;
     background-color: darkorange;
     color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer a {
+    font-family: serif;
+    font-size: 1em;
+    text-decoration: underline;
 }
 
 .nav-list > ul {
